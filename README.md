@@ -19,8 +19,8 @@ Asegúrate de tener un navegador actualizado como:
 
 ### Clonar el Repositorio
 ```sh
-git clone https://github.com/tuusuario/sorteo-amigo-secreto.git
-cd sorteo-amigo-secreto
+git clone https://github.com/gapis730/challenge-vf-josegarcia.git
+cd challenge-vf-josegarcia
 ```
 
 ### Ejecución
